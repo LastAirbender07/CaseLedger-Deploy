@@ -5,7 +5,9 @@
 **CaseLedger** is a decentralized case management system leveraging blockchain technology to enhance the transparency, security, and immutability of legal case records. Designed to streamline case management processes, CaseLedger ensures that all case-related data is securely recorded and easily accessible while maintaining integrity and transparency.
 
 > Access the deployed page on : https://caseledger.onrender.com/
+
 > Etherlink Contract Address: 0x04C340f664F9B3755B5916e4e72A63cF0475b857
+
 > Contract deployed on: https://testnet.explorer.etherlink.com/address/0x04C340f664F9B3755B5916e4e72A63cF0475b857
 
 ## Features
