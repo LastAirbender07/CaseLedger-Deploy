@@ -10,7 +10,9 @@
 
 > Contract deployed on: https://testnet.explorer.etherlink.com/address/0x04C340f664F9B3755B5916e4e72A63cF0475b857
 
-> Demo Video: https://drive.google.com/file/d/1vgtxhFjENC_KIwNoChVTuT0Qh8Qw3aUI/view?usp=sharing
+> Demo Video: 
+> 1) https://drive.google.com/file/d/1vgtxhFjENC_KIwNoChVTuT0Qh8Qw3aUI/view?usp=sharing
+> 2) https://app.weet.co/play/62362966/create-video-tutorials-with-weet
 
 ## Features
 
