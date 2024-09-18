@@ -1,10 +1,10 @@
-# CaseLedger
+# CaseLedger - https://caseledger.onrender.com/
 
 ## Overview
 
 **CaseLedger** is a decentralized case management system leveraging blockchain technology to enhance the transparency, security, and immutability of legal case records. Designed to streamline case management processes, CaseLedger ensures that all case-related data is securely recorded and easily accessible while maintaining integrity and transparency.
 
-> Access the page on : https://caseledger.onrender.com/
+> Access the deployed page on : https://caseledger.onrender.com/
 
 ## Features
 
